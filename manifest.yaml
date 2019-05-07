@@ -1,0 +1,4 @@
+---
+applications:
+  - name: hello-world-pcc
+    path: ./build/libs/demo-1.0.0-M1.jar
